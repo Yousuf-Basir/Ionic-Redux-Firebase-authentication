@@ -1,0 +1,20 @@
+@import "../theme/variables.scss";
+.loginHead {
+    text-align: center;
+}
+.loginHead > h1{
+    font-size: 50px !important;
+    text-align: center;
+    margin-top: 30px;
+    color: $primary;
+}
+.loginInputList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+.loginInputList ion-item{
+    width: 400px; 
+    margin-bottom: 20px;
+}

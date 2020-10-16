@@ -1,0 +1,7 @@
+{
+  "name": "ionic-redux-firebase-authentication",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
